@@ -1,0 +1,191 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background: #fafafa;
+  overflow-x: hidden;
+}
+
+.imgFruit {
+  width: 100px;
+  height: 150px;
+}
+
+figure {
+  text-align: center;
+  float: left;
+}
+
+figcaption {
+  text-align: center;
+}
+.col-md-4 {
+  margin-bottom: 30px;
+  position: relative;
+}
+
+.emptyDiv {
+  opacity: 0.5;
+  transition: all 1s ease;
+}
+
+.empty {
+  opacity: 0.6;
+  transition: all 1s ease;
+  position: absolute;
+  top: 60px;
+  left: 15px;
+}
+
+.wrapper-inside {
+  display: flex;
+  width: 100%;
+  align-items: stretch;
+}
+
+#sideBar {
+  background-color: #007bff;
+  margin-right: -300px;
+  transition: all 1s ease;
+  border-top: 1px solid white;
+  min-width: 300px;
+  min-height: 100vh;
+}
+
+#sideBar.active {
+  margin-right: 0px;
+  transition: all 1s ease;
+}
+
+.container-fluid {
+  margin-top: 15px;
+}
+
+.ordertable {
+  margin: 0 auto;
+  color: white;
+  margin-top: 30px;
+  width: 100%;
+  padding-bottom: 20px;
+  border-bottom: 1px solid white;
+  margin-bottom: 30px;
+}
+
+.title {
+  text-align: center;
+  color: white;
+}
+
+.total {
+  text-align: center;
+  color: white;
+  font-size: 2em;
+}
+
+.nav-link {
+  font-size: 1.5em;
+}
+
+table tr:hover {
+  background-color: #0767ce;
+  cursor: pointer;
+  transition: all 1s ease;
+}
+
+.buttonOrder {
+  text-align: center;
+}
+
+.small-fotos {
+  width: 50px;
+  height: 50px;
+}
+
+.list-unstyled {
+  border: 1px solid rgb(180, 178, 178);
+}
+
+h1 {
+  text-align: center;
+}
+
+.orderTitle {
+  background-color: rgb(202, 199, 199);
+  padding: 10px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.mr-2 {
+  color: grey;
+}
+
+/*.col-sm-4:hover {
+  background-color: rgb(234, 235, 236);
+  transition: background-color 1s;
+}
+
+.col-sm-0 {
+  display: none;
+  flex-shrink: 1;
+}
+.col-sm-3 {
+  display: inline-block;
+  background-color: #007bff;
+  flex-grow: 1;
+
+  border: 1px solid white;
+  color: white;
+}
+
+.col-sm-9 {
+  flex-shrink: 1;
+}
+
+.col-sm-12 {
+  flex-grow: 1;
+}
+
+.title {
+  text-align: center;
+  color: white;
+}
+
+.ordertable {
+  margin: 0 auto;
+  color: white;
+  margin-top: 30px;
+  width: 100%;
+  padding-bottom: 20px;
+  border-bottom: 1px solid white;
+  margin-bottom: 30px;
+}
+
+table td {
+  text-align: left;
+  padding: 5px;
+}
+table th {
+  text-align: center;
+}
+
+table td:first-child,
+table td:nth-child(2) {
+  text-align: center;
+}
+
+.btn .btn-light {
+  margin: 0 auto;
+}
+
+table td:first-child {
+  width: 70%;
+}
+
+#sideBar.newClass {
+  margin-right: 0px;
+}
+
+#sideBar {
+  background-color: #007bff;
+  max-width: 300px;
+}
+*/
