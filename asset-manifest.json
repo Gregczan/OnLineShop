@@ -1,0 +1,20 @@
+{
+  "main.css": "/OnLineShop/static/css/main.be8cfb30.chunk.css",
+  "main.js": "/OnLineShop/static/js/main.c9cefae2.chunk.js",
+  "main.js.map": "/OnLineShop/static/js/main.c9cefae2.chunk.js.map",
+  "runtime~main.js": "/OnLineShop/static/js/runtime~main.b70de41c.js",
+  "runtime~main.js.map": "/OnLineShop/static/js/runtime~main.b70de41c.js.map",
+  "static/css/2.2cdc8a9a.chunk.css": "/OnLineShop/static/css/2.2cdc8a9a.chunk.css",
+  "static/js/2.9dc921f2.chunk.js": "/OnLineShop/static/js/2.9dc921f2.chunk.js",
+  "static/js/2.9dc921f2.chunk.js.map": "/OnLineShop/static/js/2.9dc921f2.chunk.js.map",
+  "index.html": "/OnLineShop/index.html",
+  "precache-manifest.aeb9b5c928132dfe848c516edf1bfa73.js": "/OnLineShop/precache-manifest.aeb9b5c928132dfe848c516edf1bfa73.js",
+  "service-worker.js": "/OnLineShop/service-worker.js",
+  "static/css/2.2cdc8a9a.chunk.css.map": "/OnLineShop/static/css/2.2cdc8a9a.chunk.css.map",
+  "static/css/main.be8cfb30.chunk.css.map": "/OnLineShop/static/css/main.be8cfb30.chunk.css.map",
+  "static/media/fontello.css": "/OnLineShop/static/media/fontello.a6b39ba5.ttf",
+  "static/media/imgAnanas.jpg": "/OnLineShop/static/media/imgAnanas.7fabfcc7.jpg",
+  "static/media/imgApple.jpg": "/OnLineShop/static/media/imgApple.9d7df3ef.jpg",
+  "static/media/imgPeach.jpg": "/OnLineShop/static/media/imgPeach.1e8c4dbc.jpg",
+  "static/media/imgPlum.jpg": "/OnLineShop/static/media/imgPlum.ea32eda6.jpg"
+}
